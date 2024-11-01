@@ -1,9 +1,9 @@
-### **À propos de moi**
+**À propos de moi**
 
-Salut ! 👋 Je m'appelle Antoine Richard, développeur passionné et autodidacte, actuellement en formation à Epitech-Montpellier pour perfectionner mes compétences en développement et me spécialiser dans le domaine du Python.
+Salut ! 👋 Moi, c’est Antoine Richard. Je suis **développeur** en **formation** à **Epitech-Montpellier**, où je me concentre sur le **développement**, surtout en **Python**.
 
-Après plusieurs années à explorer et créer des sites internet (e-commerce, blogs, vitrines), j'ai décidé de me professionnaliser en reprenant une formation. J'ai récemment terminé une formation en **Technicien Supérieur Systèmes et Réseaux (TSSR)** et maintenant, je prépare un **Master en informatique (MSc)**. Mon alternance commencera en janvier 2025, et j'ai hâte de collaborer avec une entreprise où je pourrai mettre en pratique mes compétences et continuer à apprendre.
+Après plusieurs années à créer des **sites web** (**e-commerce**, blogs, vitrines), j’ai choisi de me **professionnaliser** et de reprendre une **formation**. J’ai récemment terminé un cursus en tant que **Technicien Supérieur Systèmes et Réseaux (TSSR)**, et je prépare maintenant un **Master en informatique (MSc)**. Mon **alternance** débutera en **janvier 2025**, et je suis impatient de rejoindre une **entreprise** pour mettre en pratique mes **compétences** et continuer à progresser.
 
-Je suis basé à **Montpellier** et en plus du développement, je gère une boutique en ligne, [Code-Samurai.fr](https://www.code-samurai.fr/), spécialisée dans les produits dérivés de la culture japonaise. J'adore tout ce qui touche à la technologie, et je suis constamment à la recherche de nouveaux défis pour élargir mes horizons.
+Basé à **Montpellier**, je gère aussi **Code-Samurai.fr**, une **boutique en ligne** spécialisée dans les **produits** inspirés de la **culture japonaise**. **Passionné** de **technologie**, j’aime relever des **défis** et apprendre en permanence.
 
-N'hésite pas à parcourir mes projets et à me contacter si tu souhaites discuter ou collaborer !
+N’hésite pas à explorer mes **projets** et à me **contacter** pour échanger ou **collaborer** !
